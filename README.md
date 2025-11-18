@@ -1,4 +1,7 @@
 # 🌍 Universal Translator v2 🎙️
+<p align="center">
+  <img src="Universal%20Translator%20AI.png" width="100%" />
+</p>
 
 An end-to-end **speech translator** built with FastAPI and deployed on **Hugging Face Spaces (Docker)**.
 
